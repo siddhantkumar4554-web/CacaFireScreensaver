@@ -1,8 +1,7 @@
-# TERMUX
-**CACAFIRE** ScreenSaver on Fire.
+coding
 
-```
-$ mkdir cacafire
+**CACAFIRE** ScreenSaver on Fire.
+cacafirekdir cacafire
 $ cd cacafire
 $ pkg install libcaca
 $ cacafire
